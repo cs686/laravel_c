@@ -167,6 +167,8 @@ return [
          * Package Service Providers...
          */
 
+        laravelchina\learnpack\LearnPackServiceProvider::class,
+
         Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
 
         //

@@ -1,0 +1,16 @@
+{
+    "name": "laravelchina/learnpack",
+    "description": "china_laravel",
+    "authors": [
+        {
+            "name": "cs686",
+            "email": "cs686@126.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "laravelchina\\learnpack\\":"src/"
+        }
+    }
+}
